@@ -1,0 +1,9 @@
+D:\PyvWeb\TestService\NService\NService\bin\Debug\NService.dll
+D:\PyvWeb\TestService\NService\NService\bin\Debug\NService.pdb
+D:\PyvWeb\TestService\NService\NService\obj\x86\Debug\NService.dll
+D:\PyvWeb\TestService\NService\NService\obj\x86\Debug\NService.pdb
+D:\PyvWeb\TestService\NService\NService\obj\x86\Debug\NService.csprojResolveAssemblyReference.cache
+C:\D\Web\NService\NService\bin\Debug\NService.dll
+C:\D\Web\NService\NService\bin\Debug\NService.pdb
+C:\D\Web\NService\NService\obj\x86\Debug\NService.dll
+C:\D\Web\NService\NService\obj\x86\Debug\NService.pdb
